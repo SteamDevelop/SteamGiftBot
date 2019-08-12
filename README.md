@@ -1,5 +1,22 @@
 # SteamGiftBot
+
 Steam Gift Bot，Automatic cross-regional purchasing steam game
+
+## Features
+
+<br>Support for purchasing cross-regional game and send it to customers as a gift
+
+- Support for adding lower price store such as Turkey and Argentina
+- Automatically help customers change their Steam accounts to the lower price area and receive gifts
+- Support for paying by Steam wallet balance and credit card
+- 24 hours automatic delivery, no need for human participation
+- Can dock to other platforms such as G2A and kinguin
+
+## If you have any requirements, please feel free to contact us. Our Email:haidaohaibot@gmail.com
+
+# Steam礼物机器人
+
+Steam礼物机器人，可自动跨区代购游戏
 
 ## 功能介绍
 
